@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de JSON para Perguntas",
+  "description": "Uma ferramenta que utiliza IA para converter screenshots de perguntas e alternativas no formato JSON especificado. Envie uma imagem e obtenha o JSON formatado instantaneamente.",
+  "requestFramePermissions": []
+}
